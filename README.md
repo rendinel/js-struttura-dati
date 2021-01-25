@@ -1,1 +1,1 @@
-js-struttura-dati
+js-es6-icons
